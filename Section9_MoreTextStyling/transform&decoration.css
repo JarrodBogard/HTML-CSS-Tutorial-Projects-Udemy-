@@ -1,0 +1,25 @@
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  /* text-decoration-line: line-through; */
+  /* text-decoration-color: cyan; */
+  /* text-decoration-style: wavy; */
+  /* text-decoration-thickness: 10px; */
+  /* text-decoration: magenta line-through wavy 2px; */
+  /* text-decoration: wavy magenta line-through 4px; */
+  /* text-decoration: wavy line-through cyan 8px; */
+  text-decoration: line-through wavy 8px magenta;
+}
+
+p {
+  /* text-transform: uppercase; */
+  text-transform: lowercase;
+  /* text-transform: capitalize; */
+}
+
+a {
+  text-decoration: none;
+}

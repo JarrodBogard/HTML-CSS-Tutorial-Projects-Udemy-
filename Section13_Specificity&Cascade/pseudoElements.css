@@ -1,0 +1,27 @@
+p::first-line {
+  color: blue;
+  text-transform: uppercase;
+}
+
+p:first-of-type::first-letter {
+  color: magenta;
+  text-transform: uppercase;
+  font-size: 200%;
+}
+
+p::selection {
+  /* color: white;
+  background-color: black; */
+  color: olivedrab;
+  background-color: orangered;
+}
+
+input::placeholder {
+  color: orange;
+  background-color: grey;
+}
+
+/* input:placeholder-shown { 
+  background-color: purple;
+} */
+/* ^^ this is a pseudo-class not a pseudo-element ^^ */

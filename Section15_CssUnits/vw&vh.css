@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  width: 800px;
+  /* overflow-x: hidden; */
+}
+.container {
+  background-color: magenta;
+  /* width: 100%; */
+  width: 100vw;
+  height: 100vh;
+}
+
+.container2 {
+  background-color: cyan;
+  /* width: 100%; */
+  /* width: 50%; */
+  /* width: 100vw; */
+  width: 50vw;
+  height: 100vh;
+}

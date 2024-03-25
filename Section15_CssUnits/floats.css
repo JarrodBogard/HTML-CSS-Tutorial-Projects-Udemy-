@@ -1,0 +1,14 @@
+p {
+  font-size: 30px;
+  /* margin-left: 100px; */
+}
+img {
+  width: 400px;
+  /* margin: 32px; */
+  /* float: right; */
+  float: left;
+}
+.container {
+  width: 1000px;
+  border: 2px solid red;
+}

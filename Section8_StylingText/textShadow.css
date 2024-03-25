@@ -1,0 +1,29 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Montserrat:wght@100;400;900&display=swap"); */
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  /* font-weight: 100; */
+  font-weight: 700;
+  font-size: 50px;
+  /* text-shadow: -2px 2px 2px magenta, -4px 4px 2px cyan; */
+  /* text-shadow: magenta 2px 2px; */
+  /* text-shadow: cyan 4px 8px; */
+  /* text-shadow: magenta -2px 2px; */
+  /* text-shadow: 4px 4px #bb0c87; */
+  /* text-shadow: 4px 4px 0 #bb0c87; */
+  /* text-shadow: 4px 4px 1px #bb0c87; */
+  /* text-shadow: 4px 4px 2px #bb0c87; */
+  /* text-shadow: 4px 4px 4px #bb0c87; */
+  /* text-shadow: 4px 4px 0 #bb0c87, 8px 8px 0 rgb(226, 1, 226),
+    12px 12px 0 rgb(83, 1, 235), 16px 16px 0 rgb(5, 2, 185),
+    20px 20px 0 rgb(0, 80, 201); */
+  text-shadow: 5px 5px 0 #bb0c87, 10px 10px 0 rgb(226, 1, 226),
+    15px 15px 0 rgb(83, 1, 235), 20px 20px 0 rgb(5, 2, 185),
+    25px 25px 0 rgb(0, 80, 201);
+}
+
+h2 {
+  font-family: "Indie Flower", cursive;
+}

@@ -1,0 +1,17 @@
+* {
+  /* border: 1px solid fuchsia; */
+  /* margin: 0;
+  padding: 0; */
+}
+
+p {
+  color: purple;
+}
+
+.tag {
+  color: orange;
+}
+
+#featured {
+  color: gold;
+}

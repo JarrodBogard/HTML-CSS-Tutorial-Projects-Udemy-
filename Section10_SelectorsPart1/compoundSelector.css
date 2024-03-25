@@ -1,0 +1,36 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  font-family: Merriweather, serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Work Sans", sans-serif;
+}
+
+.score {
+  color: orangered;
+}
+
+h2.score {
+  color: blueviolet;
+}
+
+/* h2.big {
+  color: pink;
+} */
+
+/* .big.score {
+  color: cadetblue;
+} */
+
+/* h2.big.score {
+  color: midnightblue;
+} */

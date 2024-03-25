@@ -1,0 +1,7 @@
+.special {
+  color: olivedrab;
+}
+
+p:nth-of-type(2) {
+  color: orangered;
+}

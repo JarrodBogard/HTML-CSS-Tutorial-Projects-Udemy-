@@ -1,0 +1,30 @@
+body {
+  /* background-color: #014f87; */
+  /* background-color: #000000; */
+  /* background-color: rgb(255, 255, 0); */
+  /* background-color: #ffff00; */
+  /* background-color: rgb(13, 175, 8); */
+  /* background-color: #0daf08; */
+  /* background-color: #000; */
+  /* background-color: #fff; */
+  background-color: #ff0;
+  background-color: #0f0;
+}
+p {
+  color: magenta;
+}
+
+a {
+  color: cyan;
+  background-color: magenta;
+}
+
+h2 {
+  color: orangered;
+  background-color: olive;
+}
+
+h1 {
+  color: teal;
+  background-color: yellow;
+}

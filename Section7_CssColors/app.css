@@ -1,0 +1,21 @@
+p {
+  color: red;
+}
+
+a {
+  color: cyan;
+  background-color: magenta;
+}
+
+h2 {
+  color: magenta;
+  background-color: teal;
+}
+
+h1 {
+  color: teal;
+}
+
+li {
+  background-color: grey;
+}
