@@ -3,4 +3,6 @@
   height: 700px;
   width: 400px;
   background: url("images/peacock.png") no-repeat center/200%;
+  /* background: url("images/peacock.png") no-repeat center/200%,
+    url("images/sunset.jpg") center; */
 }
