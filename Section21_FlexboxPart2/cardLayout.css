@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(cyan, purple);
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+  width: 400px;
+  margin: 0 30px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card h2 {
+  text-align: center;
+}
+
+.card p {
+  margin: 0;
+}
+
+.card p:last-of-type {
+  margin-bottom: 30px;
+}
+
+.card footer {
+  background-color: slateblue;
+  color: white;
+  margin-top: auto;
+  padding: 20px;
+  text-align: center;
+}
